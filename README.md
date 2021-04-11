@@ -1,2 +1,2 @@
 # p5-pong
-Jogo Pong em JS.
+Jogo Pong em JavaScript.
